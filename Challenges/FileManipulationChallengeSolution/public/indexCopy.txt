@@ -1,0 +1,11 @@
+Directory Contents: 
+C:\workspaces\java\InputOutput\FileManipulationChallengeSolution\public
+C:\workspaces\java\InputOutput\FileManipulationChallengeSolution\public\assets
+C:\workspaces\java\InputOutput\FileManipulationChallengeSolution\public\assets\icons
+C:\workspaces\java\InputOutput\FileManipulationChallengeSolution\public\assets\icons\index.txt
+C:\workspaces\java\InputOutput\FileManipulationChallengeSolution\public\assets\icons\indexCopy.txt
+C:\workspaces\java\InputOutput\FileManipulationChallengeSolution\public\assets\index.txt
+C:\workspaces\java\InputOutput\FileManipulationChallengeSolution\public\assets\indexCopy.txt
+C:\workspaces\java\InputOutput\FileManipulationChallengeSolution\public\index.txt
+C:\workspaces\java\InputOutput\FileManipulationChallengeSolution\public\indexCopy.txt
+Generated: 2025-06-06T11:58:18.711203100

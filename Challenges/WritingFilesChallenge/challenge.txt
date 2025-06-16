@@ -1,0 +1,50 @@
+{
+     "studentId": 1,
+     "demographics": {
+    		"countryCode": "CN",
+    		"enrolledMonth": 4,
+    		"enrolledYear": 2021,
+    		"ageAtEnrollment": 60,
+    		"gender": "M",
+    		"previousProgrammingExperience": false
+		}
+,
+     "engagement": [{
+    		"courseCode": "JMC",
+    		"engagementType": "Lecture 1",
+    		"enrollmentMonth": 4,
+    		"enrollmentYear": 2021
+}
+,{
+    		"courseCode": "PYC",
+    		"engagementType": "Lecture 2",
+    		"enrollmentMonth": 4,
+    		"enrollmentYear": 2021
+}
+]
+}
+,{
+     "studentId": 2,
+     "demographics": {
+    		"countryCode": "US",
+    		"enrolledMonth": 9,
+    		"enrolledYear": 2017,
+    		"ageAtEnrollment": 72,
+    		"gender": "U",
+    		"previousProgrammingExperience": false
+		}
+,
+     "engagement": [{
+    		"courseCode": "JMC",
+    		"engagementType": "Lecture 13",
+    		"enrollmentMonth": 9,
+    		"enrollmentYear": 2017
+}
+,{
+    		"courseCode": "PYC",
+    		"engagementType": "Lecture 9",
+    		"enrollmentMonth": 9,
+    		"enrollmentYear": 2017
+}
+]
+}
